@@ -1,30 +1,30 @@
 # Auctux Fullstack MERN Bootcamp
 
-Welcome to the **Auctux Fullstack MERN Bootcamp** repository. This is a comprehensive, project-based curriculum designed to take students from web fundamentals to deploying professional-grade fullstack web and mobile applications.
+Bienvenue dans le dépôt officiel du **Auctux Fullstack MERN Bootcamp**. Ce programme complet, basé sur la pratique, est conçu pour accompagner les étudiants des bases du web jusqu'au déploiement d'applications web et mobiles professionnelles.
 
-## Overview
-This bootcamp covers the entire MERN stack (MongoDB, Express, React, Node.js) with an additional deep dive into cross-platform mobile development using React Native.
+## 🚀 Aperçu
+Ce bootcamp couvre l'intégralité de la stack MERN (MongoDB, Express, React, Node.js) avec une immersion approfondie dans le développement mobile multiplateforme via React Native.
 
-## 📂 Project Structure
-The repository is organized by learning modules:
-- **0-admin**: Syllabus and administrative schedules.
-- **1-intro-web**: The building blocks (HTML5, CSS3, JavaScript, Git).
-- **2-3-react**: Fundamental and advanced React.js concepts.
-- **4-5-backend**: Server-side development with Node, Express, and MongoDB.
-- **6-mern-projects**: Integration of frontend and backend.
-- **7-9-mobile**: Mobile application development with React Native.
+## 📂 Structure du Projet
+Le dépôt est organisé par modules d'apprentissage :
+- **0-admin** : Syllabus et calendriers administratifs.
+- **1-intro-web** : Les bases fondamentales (HTML5, CSS3, JavaScript, Git).
+- **2-3-react** : Concepts fondamentaux et avancés de React.js.
+- **4-5-backend** : Développement serveur avec Node, Express et MongoDB.
+- **6-mern-projects** : Intégration du frontend et du backend.
+- **7-9-mobile** : Développement d'applications mobiles avec React Native.
 
-## 🛠 Tech Stack
-- **Frontend**: React.js, Tailwind CSS, Redux/Zustand.
-- **Backend**: Node.js, Express.js.
-- **Database**: MongoDB (Mongoose ODM).
-- **Mobile**: React Native (Expo/CLI).
-- **Tools**: Git, GitHub, Postman, JWT.
+## 🛠 Stack Technique
+- **Frontend** : React.js, Tailwind CSS, Redux/Zustand.
+- **Backend** : Node.js, Express.js.
+- **Base de données** : MongoDB (Mongoose ODM).
+- **Mobile** : React Native (Expo/CLI).
+- **Outils** : Git, GitHub, Postman, JWT.
 
-## 📝 How to Use
-1. **Clone the repo**: `git clone [repository-url]`
-2. **Navigate to a module**: `cd 1-intro-web`
-3. **Follow the lessons**: Each folder contains a `lessons.md` or specific topic guides.
+## 📝 Comment utiliser ce dépôt
+1. **Cloner le projet** : `git clone [url-du-depot]`
+2. **Accéder à un module** : `cd 1-intro-web`
+3. **Suivre les leçons** : Chaque dossier contient un fichier `lessons.md` ou des guides spécifiques par sujet.
 
 ---
-*Developed by Auctux Academy.*
+*Développé par Auctux Academy.*
